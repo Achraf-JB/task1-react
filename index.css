@@ -1,0 +1,20 @@
+
+.container{
+  margin: 5px 80px;
+}
+.part1{
+  display: flex;
+
+}
+.part1>.img{
+  width: 1400px;
+  height:350px
+}
+.part1-product{
+
+}
+.sous-img{
+  height: 50px;
+  display: flex;
+}
+
